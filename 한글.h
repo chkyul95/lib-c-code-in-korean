@@ -69,6 +69,11 @@
 #define 파일지우기 remove
 #define 파일이름바꾸기 rename
 
+#define 문자열길이 strlen
+#define 문자열복사 strcpy
+#define 문자열비교 strcmp
+#define 문자열이어붙이기 strcat
+
 #define 널 NULL
 
 #endif
